@@ -1,0 +1,658 @@
+[
+  {
+    "source": "assets/campaigns/2026/aerospace-machining-poster.jpg",
+    "optimized": "assets/optimized/site/aerospace-machining-poster-caae27b9.webp",
+    "before_bytes": 76610,
+    "after_bytes": 59416,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "source": "assets/campaigns/2026/engine-discussion-myle.webp",
+    "optimized": "assets/optimized/site/elara-engineers-discussing-engine-hardware-at-myle-e692d37d.webp",
+    "before_bytes": 213304,
+    "after_bytes": 199584,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "source": "assets/campaigns/2026/engine-pickup.webp",
+    "optimized": "assets/optimized/site/elara-engineers-with-a-newly-manufactured-engine-at-aconity3d-99b39e6a.webp",
+    "before_bytes": 260532,
+    "after_bytes": 246038,
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "source": "assets/campaigns/2026/test-stand-tablet.webp",
+    "optimized": "assets/optimized/site/elara-engineer-operating-test-stand-controls-on-a-tablet-6a973408.webp",
+    "before_bytes": 240572,
+    "after_bytes": 208710,
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "source": "assets/news/20260310_083323.webp",
+    "optimized": "assets/optimized/site/20260310-083323-f038b13e.webp",
+    "before_bytes": 262342,
+    "after_bytes": 103182,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "source": "assets/news/IMG_1217.webp",
+    "optimized": "assets/optimized/site/assembly-of-the-montanstahl-test-frame-cffbce55.webp",
+    "before_bytes": 512446,
+    "after_bytes": 231164,
+    "width": 1440,
+    "height": 1920
+  },
+  {
+    "source": "assets/news/IMG_1350.webp",
+    "optimized": "assets/optimized/site/thrust-vector-control-assembly-work-d9713226.webp",
+    "before_bytes": 197316,
+    "after_bytes": 88714,
+    "width": 1440,
+    "height": 1920
+  },
+  {
+    "source": "assets/news/IMG_2260.webp",
+    "optimized": "assets/optimized/site/elara-combustion-chamber-hardware-9a39a246.webp",
+    "before_bytes": 238678,
+    "after_bytes": 204618,
+    "width": 1920,
+    "height": 1280
+  },
+  {
+    "source": "assets/news/WhatsApp Image 2026-01-27 at 13.35.08 (5).webp",
+    "optimized": "assets/optimized/site/28-kn-chamber-printing-on-aconity-system-bdbdd239.webp",
+    "before_bytes": 296600,
+    "after_bytes": 112704,
+    "width": 1440,
+    "height": 1920
+  },
+  {
+    "source": "assets/partners/Autodesk_Logo_2021.svg.webp",
+    "optimized": "assets/optimized/site/autodesk-ef73f947.webp",
+    "before_bytes": 25722,
+    "after_bytes": 19768,
+    "width": 1920,
+    "height": 212
+  },
+  {
+    "source": "assets/partners/Basler_AG_logo.svg.webp",
+    "optimized": "assets/optimized/site/basler-ag-e9562fbc.webp",
+    "before_bytes": 71398,
+    "after_bytes": 66494,
+    "width": 1920,
+    "height": 595
+  },
+  {
+    "source": "assets/partners/de792de3-a4f7-c685-e362-57c309e4117f.webp",
+    "optimized": "assets/optimized/site/seto-2353577c.webp",
+    "before_bytes": 136950,
+    "after_bytes": 33526,
+    "width": 1920,
+    "height": 549
+  },
+  {
+    "source": "assets/partners/fetched/santa-clara.png",
+    "optimized": "assets/optimized/site/santa-clara-university-e51c5880.webp",
+    "before_bytes": 11120,
+    "after_bytes": 4854,
+    "width": 192,
+    "height": 192
+  },
+  {
+    "source": "assets/partners/fetched/strascheg-center.png",
+    "optimized": "assets/optimized/site/strascheg-center-8b6c4a91.webp",
+    "before_bytes": 7925,
+    "after_bytes": 3854,
+    "width": 245,
+    "height": 72
+  },
+  {
+    "source": "assets/partners/fetched/tum-venture-labs.png",
+    "optimized": "assets/optimized/site/tum-venture-labs-f25cfb4b.webp",
+    "before_bytes": 16043,
+    "after_bytes": 12018,
+    "width": 1819,
+    "height": 622
+  },
+  {
+    "source": "assets/partners/fetched/unternehmertum.png",
+    "optimized": "assets/optimized/site/unternehmertum-5825de9b.webp",
+    "before_bytes": 2769,
+    "after_bytes": 1128,
+    "width": 192,
+    "height": 192
+  },
+  {
+    "source": "assets/partners/gtm.jpg",
+    "optimized": "assets/optimized/site/gtm-d53cad28.webp",
+    "before_bytes": 67368,
+    "after_bytes": 10988,
+    "width": 1380,
+    "height": 635
+  },
+  {
+    "source": "assets/partners/ksb.png",
+    "optimized": "assets/optimized/site/ksb-0e3bc54b.webp",
+    "before_bytes": 383341,
+    "after_bytes": 56232,
+    "width": 1920,
+    "height": 547
+  },
+  {
+    "source": "assets/partners/metallux.webp",
+    "optimized": "assets/optimized/site/metallux-501ef042.webp",
+    "before_bytes": 29450,
+    "after_bytes": 13188,
+    "width": 1920,
+    "height": 536
+  },
+  {
+    "source": "assets/partners/online/aconity3d.png",
+    "optimized": "assets/optimized/site/aconity3d-f0e0b144.webp",
+    "before_bytes": 28599,
+    "after_bytes": 8002,
+    "width": 180,
+    "height": 180
+  },
+  {
+    "source": "assets/partners/online/amcm.png",
+    "optimized": "assets/optimized/site/amcm-d0900b78.webp",
+    "before_bytes": 1632,
+    "after_bytes": 1274,
+    "width": 96,
+    "height": 96
+  },
+  {
+    "source": "assets/partners/online/cf-turbo.png",
+    "optimized": "assets/optimized/site/cfturbo-ba691a46.webp",
+    "before_bytes": 7535,
+    "after_bytes": 2758,
+    "width": 256,
+    "height": 213
+  },
+  {
+    "source": "assets/partners/online/confoot.png",
+    "optimized": "assets/optimized/site/confoot-5dd4d867.webp",
+    "before_bytes": 731,
+    "after_bytes": 640,
+    "width": 43,
+    "height": 43
+  },
+  {
+    "source": "assets/partners/online/dassault-systemes.png",
+    "optimized": "assets/optimized/site/dassault-syst-mes-2997bfcc.webp",
+    "before_bytes": 5393,
+    "after_bytes": 2762,
+    "width": 180,
+    "height": 180
+  },
+  {
+    "source": "assets/partners/online/fibrolux.png",
+    "optimized": "assets/optimized/site/fibrolux-1668675e.webp",
+    "before_bytes": 3026,
+    "after_bytes": 1926,
+    "width": 200,
+    "height": 200
+  },
+  {
+    "source": "assets/partners/online/formlabs.png",
+    "optimized": "assets/optimized/site/formlabs-1e77a2b2.webp",
+    "before_bytes": 1463,
+    "after_bytes": 1114,
+    "width": 48,
+    "height": 48
+  },
+  {
+    "source": "assets/partners/online/gamma-technologies.png",
+    "optimized": "assets/optimized/site/gamma-technologies-e1e9d33f.webp",
+    "before_bytes": 255,
+    "after_bytes": 226,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "source": "assets/partners/online/go-east.png",
+    "optimized": "assets/optimized/site/go-east-c513eff9.webp",
+    "before_bytes": 1622,
+    "after_bytes": 1054,
+    "width": 48,
+    "height": 48
+  },
+  {
+    "source": "assets/partners/online/kaeser.png",
+    "optimized": "assets/optimized/site/kaeser-kompressoren-a40bf3b7.webp",
+    "before_bytes": 8024,
+    "after_bytes": 2394,
+    "width": 180,
+    "height": 180
+  },
+  {
+    "source": "assets/partners/online/leap71.png",
+    "optimized": "assets/optimized/site/leap-71-ee7ff2a2.webp",
+    "before_bytes": 6279,
+    "after_bytes": 3826,
+    "width": 192,
+    "height": 192
+  },
+  {
+    "source": "assets/partners/online/murr.png",
+    "optimized": "assets/optimized/site/murr-bf77d8bc.webp",
+    "before_bytes": 1185,
+    "after_bytes": 864,
+    "width": 57,
+    "height": 57
+  },
+  {
+    "source": "assets/partners/online/nippon-gases.png",
+    "optimized": "assets/optimized/site/nippon-gases-17c876b1.webp",
+    "before_bytes": 9839,
+    "after_bytes": 2646,
+    "width": 240,
+    "height": 76
+  },
+  {
+    "source": "assets/partners/online/nordalp.png",
+    "optimized": "assets/optimized/site/nordalp-b380a8e9.webp",
+    "before_bytes": 3650,
+    "after_bytes": 1704,
+    "width": 500,
+    "height": 139
+  },
+  {
+    "source": "assets/partners/online/olm.png",
+    "optimized": "assets/optimized/site/olm-dde1c087.webp",
+    "before_bytes": 4052,
+    "after_bytes": 2826,
+    "width": 256,
+    "height": 256
+  },
+  {
+    "source": "assets/partners/online/simscale.png",
+    "optimized": "assets/optimized/site/simscale-4d8d39ef.webp",
+    "before_bytes": 5755,
+    "after_bytes": 4196,
+    "width": 256,
+    "height": 256
+  },
+  {
+    "source": "assets/partners/online/ssip.png",
+    "optimized": "assets/optimized/site/ssip-5c7d39fc.webp",
+    "before_bytes": 75158,
+    "after_bytes": 11064,
+    "width": 255,
+    "height": 256
+  },
+  {
+    "source": "assets/partners/online/synera.png",
+    "optimized": "assets/optimized/site/synera-d487935a.webp",
+    "before_bytes": 8749,
+    "after_bytes": 4840,
+    "width": 256,
+    "height": 256
+  },
+  {
+    "source": "assets/partners/online/vector.png",
+    "optimized": "assets/optimized/site/vector-2822653f.webp",
+    "before_bytes": 5232,
+    "after_bytes": 3494,
+    "width": 256,
+    "height": 256
+  },
+  {
+    "source": "assets/partners/online/voxeljet.png",
+    "optimized": "assets/optimized/site/voxeljet-dfac1f70.webp",
+    "before_bytes": 15632,
+    "after_bytes": 3596,
+    "width": 192,
+    "height": 192
+  },
+  {
+    "source": "assets/partners/walcodo.webp",
+    "optimized": "assets/optimized/site/walther-pr-zision-walcodo-89e5cbdc.webp",
+    "before_bytes": 60254,
+    "after_bytes": 51928,
+    "width": 1920,
+    "height": 1693
+  },
+  {
+    "source": "assets/partners/wuerth-elektronik-with-claim.png",
+    "optimized": "assets/optimized/site/w-rth-elektronik-40ce2e03.webp",
+    "before_bytes": 50356,
+    "after_bytes": 19284,
+    "width": 1240,
+    "height": 496
+  },
+  {
+    "source": "assets/propulsion/IMG_1991.webp",
+    "optimized": "assets/optimized/site/elara-propulsion-hardware-65e71e61.webp",
+    "before_bytes": 443220,
+    "after_bytes": 189020,
+    "width": 1440,
+    "height": 1920
+  },
+  {
+    "source": "assets/propulsion/TKL-7.webp",
+    "optimized": "assets/optimized/site/tkl-7-rocket-engine-45d55a2d.webp",
+    "before_bytes": 192130,
+    "after_bytes": 182048,
+    "width": 1920,
+    "height": 1920
+  },
+  {
+    "source": "assets/propulsion/avaris-3kn.jpg",
+    "optimized": "assets/optimized/site/avaris-3-kn-rocket-engine-combustion-chamber-3d691ca5.webp",
+    "before_bytes": 985670,
+    "after_bytes": 105718,
+    "width": 1440,
+    "height": 1920
+  },
+  {
+    "source": "assets/propulsion/starlight_engine.webp",
+    "optimized": "assets/optimized/site/starlight-engine-development-ecc5ea56.webp",
+    "before_bytes": 101072,
+    "after_bytes": 95476,
+    "width": 1048,
+    "height": 1920
+  },
+  {
+    "source": "assets/propulsion/waam-yaskawa-ar2010.png",
+    "optimized": "assets/optimized/site/yaskawa-welding-robot-used-as-a-waam-reference-a1ffd54e.webp",
+    "before_bytes": 248188,
+    "after_bytes": 43174,
+    "width": 511,
+    "height": 838
+  },
+  {
+    "source": "assets/team/DSC01149.webp",
+    "optimized": "assets/optimized/site/theresa-schmitt-e970cd80.webp",
+    "before_bytes": 840288,
+    "after_bytes": 115682,
+    "width": 1280,
+    "height": 1920
+  },
+  {
+    "source": "assets/team/DSC01161.webp",
+    "optimized": "assets/optimized/site/adrian-leutner-99c69407.webp",
+    "before_bytes": 522792,
+    "after_bytes": 86528,
+    "width": 1280,
+    "height": 1920
+  },
+  {
+    "source": "assets/team/DSC01187.webp",
+    "optimized": "assets/optimized/site/rufus-henschek-be56a531.webp",
+    "before_bytes": 408010,
+    "after_bytes": 72606,
+    "width": 1280,
+    "height": 1920
+  },
+  {
+    "source": "assets/team/DSC01232.webp",
+    "optimized": "assets/optimized/site/tom-luca-reinhardt-a7161990.webp",
+    "before_bytes": 431194,
+    "after_bytes": 68816,
+    "width": 1280,
+    "height": 1920
+  },
+  {
+    "source": "assets/team/DSC01235.webp",
+    "optimized": "assets/optimized/site/tobias-j-ger-8c480129.webp",
+    "before_bytes": 400812,
+    "after_bytes": 71112,
+    "width": 1280,
+    "height": 1920
+  },
+  {
+    "source": "assets/team/team-title.jpg",
+    "optimized": "assets/optimized/site/elara-team-at-work-bc97b26a.webp",
+    "before_bytes": 1314366,
+    "after_bytes": 206948,
+    "width": 1440,
+    "height": 1920
+  },
+  {
+    "source": "assets/ui/IMG_2675.webp",
+    "optimized": "assets/optimized/site/elara-aerospace-connectivity-938df4ad.webp",
+    "before_bytes": 546680,
+    "after_bytes": 158574,
+    "width": 1440,
+    "height": 1920
+  },
+  {
+    "source": "assets/ui/IMG_2922.webp",
+    "optimized": "assets/optimized/site/elara-aerospace-headquarters-c8d98be5.webp",
+    "before_bytes": 630196,
+    "after_bytes": 167194,
+    "width": 1920,
+    "height": 1440
+  },
+  {
+    "source": "assets/ui/payload-hero-hardware.jpg",
+    "optimized": "assets/optimized/site/payload-hardware-and-flight-electronics-0fd71293.webp",
+    "before_bytes": 670633,
+    "after_bytes": 119810,
+    "width": 1920,
+    "height": 1283
+  },
+  {
+    "source": "assets/vehicles/starleap/HopperStudio.webp",
+    "optimized": "assets/optimized/site/hopper-hopper-design-with-four-landing-legs-propellant-tanks-and-engine-b440f603.webp",
+    "before_bytes": 35490,
+    "after_bytes": 27172,
+    "width": 1920,
+    "height": 1013
+  },
+  {
+    "source": "assets/vehicles/starleap/HopperwLegswHuman_1_2026-Apr-20_07-10-22AM-000_CustomizedView10045039288.webp",
+    "optimized": "assets/optimized/site/hopperwlegswhuman-1-2026-apr-20-07-10-22am-000-customizedview10045039288-948efeec.webp",
+    "before_bytes": 56140,
+    "after_bytes": 24330,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "source": "assets/vehicles/starleap/hopper-mmk-photo.webp",
+    "optimized": "assets/optimized/site/hopper-flight-demonstrator-on-display-at-the-m-nchner-management-kolloquium-2fadef25.webp",
+    "before_bytes": 256632,
+    "after_bytes": 196812,
+    "width": 1800,
+    "height": 2400
+  },
+  {
+    "source": "assets/vehicles/starleap/status/flight-profile.png",
+    "optimized": "assets/optimized/site/ai-generated-illustration-of-repeated-hopper-flights-945621e5.webp",
+    "before_bytes": 2273929,
+    "after_bytes": 187070,
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "source": "assets/vehicles/starleap/status/free-flight.png",
+    "optimized": "assets/optimized/site/ai-generated-illustration-of-hopper-hovering-untethered-above-a-test-pad-b48f9334.webp",
+    "before_bytes": 2071904,
+    "after_bytes": 117748,
+    "width": 1536,
+    "height": 1024
+  },
+  {
+    "source": "assets/vehicles/starleap/status/hopper-complete.jpg",
+    "optimized": "assets/optimized/site/completed-hopper-vehicle-at-oerlikon-tum-venture-labs-e464a7f5.webp",
+    "before_bytes": 1857829,
+    "after_bytes": 217510,
+    "width": 1440,
+    "height": 1920
+  },
+  {
+    "source": "assets/vehicles/starleap/status/tank-manufacturing.jpg",
+    "optimized": "assets/optimized/site/tanks-before-welding-during-hopper-manufacturing-92e89c2a.webp",
+    "before_bytes": 1487827,
+    "after_bytes": 76388,
+    "width": 1920,
+    "height": 1440
+  },
+  {
+    "source": "assets/vehicles/starleap/status/tethered-flight.png",
+    "optimized": "assets/optimized/site/ai-generated-illustration-of-hopper-tethered-to-an-overhead-crane-during-a-flight-tes-6bbe0325.webp",
+    "before_bytes": 1950012,
+    "after_bytes": 118982,
+    "width": 1536,
+    "height": 1024
+  },
+  {
+    "source": "assets/vehicles/starleap/status/tvc-assembly.jpg",
+    "optimized": "assets/optimized/site/linear-motors-for-the-hopper-thrust-vector-control-system-f79b7c54.webp",
+    "before_bytes": 736546,
+    "after_bytes": 67930,
+    "width": 1440,
+    "height": 1920
+  },
+  {
+    "source": "assets/vehicles/starlight/Starlight_V7_2026-Apr-19_01-34-12PM-000_CustomizedView5973329447.webp",
+    "optimized": "assets/optimized/site/full-length-design-render-of-the-starlight-rocket-8306e1ac.webp",
+    "before_bytes": 28934,
+    "after_bytes": 10612,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "source": "assets/vehicles/starlight/acacb8d6-d929-493e-be1c-68f48d44aa31.webp",
+    "optimized": "assets/optimized/site/acacb8d6-d929-493e-be1c-68f48d44aa31-f741e514.webp",
+    "before_bytes": 42390,
+    "after_bytes": 17346,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "source": "assets/vehicles/tb30/GSE_LT_F_Assembly_2026-May-10_10-07-53AM-000_CustomizedView10070714731.webp",
+    "optimized": "assets/optimized/site/cad-design-of-the-tb30-launch-table-6cf7fcac.webp",
+    "before_bytes": 39784,
+    "after_bytes": 17762,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "source": "assets/vehicles/tb30/flame-diverter-sound-suppression.png",
+    "optimized": "assets/optimized/site/tb30-flame-diverter-and-sound-suppression-render-33b2a67a.webp",
+    "before_bytes": 522554,
+    "after_bytes": 19042,
+    "width": 1920,
+    "height": 1012
+  },
+  {
+    "source": "assets/news/IMG_4948.webp",
+    "optimized": "assets/optimized/site/elara-team-with-development-hardware-0c7f319c.webp",
+    "before_bytes": 307698,
+    "after_bytes": 307698,
+    "width": 1440,
+    "height": 1920
+  },
+  {
+    "source": "assets/news/Screenshot_20250919_095231_Gallery.webp",
+    "optimized": "assets/optimized/site/elara-engineers-at-an-event-f69907ac.webp",
+    "before_bytes": 75462,
+    "after_bytes": 75462,
+    "width": 1488,
+    "height": 1080
+  },
+  {
+    "source": "assets/news/fbe32666-7155-4e4c-a571-42b7277cdd7f.webp",
+    "optimized": "assets/optimized/site/regal-rexnord-tvc-technology-1a2fe156.webp",
+    "before_bytes": 236198,
+    "after_bytes": 236198,
+    "width": 1600,
+    "height": 1200
+  },
+  {
+    "source": "assets/news/shared image (9).webp",
+    "optimized": "assets/optimized/site/elara-workshop-assembly-table-ac437018.webp",
+    "before_bytes": 145982,
+    "after_bytes": 145982,
+    "width": 1824,
+    "height": 1368
+  },
+  {
+    "source": "assets/partners/creality-nstk5dia4dqcprgtl8tahk copy.webp",
+    "optimized": "assets/optimized/site/creality-98eafc19.webp",
+    "before_bytes": 896,
+    "after_bytes": 842,
+    "width": 300,
+    "height": 54
+  },
+  {
+    "source": "assets/partners/kollmorgen-logo.png copy.webp",
+    "optimized": "assets/optimized/site/kollmorgen-4e0ef1c1.webp",
+    "before_bytes": 20628,
+    "after_bytes": 20628,
+    "width": 1014,
+    "height": 265
+  },
+  {
+    "source": "assets/propulsion/IMG_2761.webp",
+    "optimized": "assets/optimized/site/elara-propulsion-hardware-c7f14e11.webp",
+    "before_bytes": 44856,
+    "after_bytes": 44856,
+    "width": 627,
+    "height": 836
+  },
+  {
+    "source": "assets/team/279913df-f45e-4271-b222-82c0db884bc4 2-hero.webp",
+    "optimized": "assets/optimized/site/elara-team-members-beside-the-hopper-hopper-db47c706.webp",
+    "before_bytes": 161820,
+    "after_bytes": 161820,
+    "width": 1440,
+    "height": 1920
+  },
+  {
+    "source": "assets/team/DSC07364.ARW-hero.webp",
+    "optimized": "assets/optimized/site/the-hopper-hopper-at-an-elara-event-ec4ca058.webp",
+    "before_bytes": 64150,
+    "after_bytes": 64150,
+    "width": 1600,
+    "height": 1069
+  },
+  {
+    "source": "assets/ui/DSC07527.ARW-hero.webp",
+    "optimized": "assets/optimized/site/hardware-from-the-elara-program-b2cef03b.webp",
+    "before_bytes": 57064,
+    "after_bytes": 57064,
+    "width": 1600,
+    "height": 1069
+  },
+  {
+    "source": "assets/ui/IMG_2684-desktop.webp",
+    "optimized": "assets/optimized/site/a-view-from-elara-s-work-08ffd5d5.webp",
+    "before_bytes": 760324,
+    "after_bytes": 760324,
+    "width": 1440,
+    "height": 1920
+  },
+  {
+    "source": "assets/ui/IMG_2731.webp",
+    "optimized": "assets/optimized/site/elara-aerospace-delivery-hub-15ce0094.webp",
+    "before_bytes": 52684,
+    "after_bytes": 52684,
+    "width": 836,
+    "height": 594
+  },
+  {
+    "source": "assets/vehicles/starleap/HopperwLegswHuman_1_2026-Apr-20_07-10-22AM-000_CustomizedView10045039288-mobile.webp",
+    "optimized": "assets/optimized/site/hopperwlegswhuman-1-2026-apr-20-07-10-22am-000-customizedview10045039288-mobile-1014e996.webp",
+    "before_bytes": 6760,
+    "after_bytes": 6760,
+    "width": 800,
+    "height": 450
+  },
+  {
+    "source": "assets/vehicles/starlight/acacb8d6-d929-493e-be1c-68f48d44aa31-mobile.webp",
+    "optimized": "assets/optimized/site/acacb8d6-d929-493e-be1c-68f48d44aa31-mobile-3de95f0e.webp",
+    "before_bytes": 4984,
+    "after_bytes": 4984,
+    "width": 800,
+    "height": 450
+  }
+]

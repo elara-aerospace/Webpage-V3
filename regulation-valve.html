@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="Elara Aerospace Regulation Valve development program for precise propulsion fluid control." name="description"/>
+<title>Regulation Valve | Elara Aerospace</title>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&amp;family=Barlow+Condensed:wght@600;700;800&amp;family=JetBrains+Mono:wght@400;700&amp;display=swap" rel="stylesheet"/>
+<link href="./styles.min.css?v=20261009-feedback" rel="stylesheet"/>
+<style>
+      .regulation-hero { min-height: 72vh; background: linear-gradient(90deg, rgba(0,0,0,.9), rgba(0,0,0,.38)), url('./assets/optimized/site/elara-propulsion-hardware-c7f14e11.webp') center/cover; }
+      .valve-grid { display:grid; grid-template-columns: 1fr 1fr; gap: 70px; align-items: stretch; }
+      .valve-render { min-height: 520px; border: 1px solid var(--border); background: var(--bg-panel); display:flex; align-items:center; justify-content:center; text-align:center; padding:40px; }
+      .valve-render span { color:var(--muted); font-family:var(--font-mono); font-size:.75rem; letter-spacing:2px; text-transform:uppercase; }
+      .valve-table { width:100%; border-collapse:collapse; margin-top:40px; }
+      .valve-table tr { border-bottom:1px solid var(--border); }
+      .valve-table td { padding:18px 0; }
+      .valve-table td:first-child { color:var(--muted); text-transform:uppercase; font: .8rem var(--font-mono); letter-spacing:1px; }
+      .valve-table td:last-child { text-align:right; font: 1.25rem var(--font-heading); text-transform:uppercase; }
+      @media (max-width:820px) { .valve-grid { grid-template-columns:1fr; gap:35px; } .valve-render { min-height:300px; } }
+    </style>
+</head>
+<body class="landing-page editorial-page regulation-valve-page"><a class="landing-skip" href="#main-content">Skip to content</a>
+<header class="site-header">
+<div class="logo-container"><a href="./index.html"><img alt="Elara Aerospace" src="./assets/ui/ea-partner-white.webp"/></a></div>
+<a class="team-link" href="./team.html#apply"><span>Apply</span></a>
+<button aria-controls="main-navigation" aria-expanded="false" aria-label="Toggle navigation" class="nav-toggle"><span></span></button>
+<nav aria-label="Main navigation" class="site-nav" id="main-navigation">
+<div class="nav-item"><a href="./index.html">Home</a></div>
+<div class="nav-item"><a href="./starleap.html">Technology</a><div class="dropdown"><a href="./starleap.html">Hopper</a><a href="./starlight.html">Starlight (LV1 Rocket)</a><a href="./tb30.html">TB30 (Test Stand)</a><a href="./other-projects.html">Other Research (R&amp;D)</a></div></div>
+<div class="nav-item"><a href="./payload.html">Payload</a></div>
+<div class="nav-item"><a href="./news.html">News</a></div>
+<div class="nav-item"><a href="./events.html">Events</a></div>
+<div class="nav-item"><a href="./team.html">Team</a></div>
+<div class="nav-item"><a href="./partners.html">Partners</a><div class="dropdown"><a href="./partners.html">Partners</a><a href="./partner-with-us.html">Partner With Us</a><a href="./donate.html">Donate</a></div></div>
+<div class="nav-item"><a href="./about.html">About</a></div>
+<div class="nav-item mobile-only"><a href="./contact.html">Contact</a></div>
+</nav>
+<div class="header-actions"><a class="btn btn-secondary" href="./partner-with-us.html">Partner With Us</a></div>
+</header>
+<main class="landing-main editorial-main" id="main-content">
+<section aria-labelledby="page-title" class="landing-hero editorial-hero"><div class="landing-hero-copy"><p class="landing-label">Technology / Fluid control</p><h1 id="page-title">Control the flow.</h1><p class="landing-intro">An electronically actuated valve architecture in development for fuel, oxidiser, and pressure-regulation duties.</p><div class="editorial-actions"><a class="landing-button" href="#specifications">View development targets <span aria-hidden="true">↗</span></a></div></div><figure class="landing-hero-image"><img alt="Propulsion hardware from the wider Elara program" decoding="async" fetchpriority="high" src="./assets/optimized/site/elara-propulsion-hardware-c7f14e11.webp"/></figure></section>
+<span id="page-content"></span><section class="section editorial-section"><div class="valve-grid"><div class="text-content"><p class="hero-eyebrow landing-label">One Architecture</p><h2>Control The Flow. <br/>Reduce The System.</h2><p>One electronically actuated valve design for fuel, oxidiser, and pressure regulation across our propulsion systems.</p><p>Currently TRL 3, with a first prototype targeted for Q4 2026.</p></div><div aria-label="Reserved space for Regulation Valve render" class="valve-render" role="img"><span>Regulation Valve Render<br/>Coming During Prototype Design</span></div></div></section>
+<section class="section editorial-section" id="specifications"><div class="container-narrow"><div class="editorial-section-heading"><p class="landing-label">Target Specifications</p><div class="editorial-heading-copy"><h2>Regulation Valve <br/>Development Targets</h2></div></div><table class="valve-table"><tr><td>Mass</td><td>≈ 1 kg</td></tr><tr><td>Electrical Power</td><td>400 W</td></tr><tr><td>Maximum Pressure</td><td>300 bar</td></tr><tr><td>Mass Flow</td><td>0–10 kg/s</td></tr><tr><td>Candidate Materials</td><td>316L / Ti-6Al-4V</td></tr><tr><td>Technology Readiness</td><td>TRL 3</td></tr><tr><td>Prototype Completion</td><td>Q4 2026</td></tr></table></div></section>
+<section class="section editorial-section"><div class="container-narrow"><div class="editorial-section-heading"><p class="landing-label">Development Path</p><div class="editorial-heading-copy"><h2>From Common Concept <br/>To Flight Hardware</h2><p class="lede">Prototype tests will validate actuation, pressure containment, flow control, and system integration.</p></div></div><div class="status-strip"><div class="status-pill status-active"><span>Current Stage</span><strong>TRL 3 Development</strong></div><div class="status-pill"><span>Next Target</span><strong>Prototype Completion</strong></div><div class="status-pill"><span>Target Window</span><strong>Q4 2026</strong></div></div></div></section>
+</main>
+<footer class="site-footer">
+<section aria-label="Newsletter subscription" class="footer-newsletter">
+<div class="footer-newsletter-copy"><p class="technical-label">Follow the work as it develops</p><h2>Subscribe to our newsletter</h2><p>Receive technology updates, test campaign milestones, and event invitations from Elara Aerospace.</p></div>
+<form class="newsletter-form" data-hubspot-form-id="e8ffd25d-7a5a-4be8-983d-64d6f8905f62" data-newsletter-form="">
+<div class="newsletter-form-grid"><div class="newsletter-field"><label for="newsletter-firstname-regulation">First Name</label><input autocomplete="given-name" class="newsletter-control" id="newsletter-firstname-regulation" name="firstname" required="" type="text"/></div><div class="newsletter-field"><label for="newsletter-lastname-regulation">Last Name</label><input autocomplete="family-name" class="newsletter-control" id="newsletter-lastname-regulation" name="lastname" required="" type="text"/></div><div class="newsletter-field newsletter-field-email"><label for="newsletter-email-regulation">Email</label><input autocomplete="email" class="newsletter-control" id="newsletter-email-regulation" name="email" required="" type="email"/></div></div>
+<div class="newsletter-consent"><label class="form-checkbox-label"><input name="newsletter_consent" required="" type="checkbox" value="true"/><span>I would like to receive the newsletter and accept the <a href="./legal.html?tab=privacy-policy">Privacy Policy</a>.</span></label></div><button class="btn btn-primary newsletter-submit" type="submit">Subscribe</button><p class="newsletter-status" data-newsletter-status="" role="status"></p>
+</form>
+</section>
+<div class="footer-grid"><div class="footer-brand"><img alt="Elara Aerospace" class="footer-logo" src="./assets/ui/ea-partner-white.webp"/><p>Building reusable suborbital vehicles, propulsion systems, and flight infrastructure for European research missions.</p></div><div class="footer-column"><h4>Missions</h4><ul><li><a href="./starleap.html">Hopper</a></li><li><a href="./starlight.html">Starlight</a></li><li><a href="./payload.html">Payload</a></li></ul></div><div class="footer-column"><h4>Company</h4><ul><li><a href="./about.html">About Us</a></li><li><a href="./team.html">The Team</a></li><li><a href="./news.html">Newsroom</a></li><li><a href="./glossary.html">Glossary</a></li></ul></div><div class="footer-column"><h4>Connect</h4><ul><li><a href="./contact.html">Contact</a></li><li><a href="./partners.html">Partners</a></li><li><a href="./donate.html">Donate</a></li><li><a href="./legal.html">Legal</a></li></ul></div></div>
+<div class="footer-bottom"><p class="copyright">Elara Aerospace © 2026</p><div class="footer-status">Munich, Germany</div></div>
+</footer>
+<script defer="" src="./app.min.js"></script>
+</body>
+</html>

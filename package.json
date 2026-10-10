@@ -1,0 +1,25 @@
+{
+  "name": "elara-aerospace",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "optimize:starlight": "python3 scripts/optimize-starlight-images.py && npm run build",
+    "build:css": "cleancss -o styles.min.css styles.css",
+    "build:js": "terser app.js -o app.min.js && terser homepage-data.js -o homepage-data.min.js",
+    "build": "node build.js",
+    "dev": "npm run build:css && npm run build:js",
+    "watch": "npm run build:css -- --watch & npm run build:js",
+    "optimize:images": "python3 scripts/optimize-site-images.py",
+    "audit:deployment": "python3 scripts/endpoint_sweep.py dist competition-dist && python3 scripts/audit-deployment.py && node scripts/test-analytics.cjs"
+  },
+  "devDependencies": {
+    "clean-css-cli": "5.4.2",
+    "fs-extra": "^11.3.5",
+    "html-minifier-terser": "^7.2.0",
+    "purgecss": "7.0.2",
+    "terser": "^5.31.0"
+  },
+  "overrides": {
+    "postcss-selector-parser": "^7.1.6"
+  }
+}

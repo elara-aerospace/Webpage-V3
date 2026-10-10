@@ -1,0 +1,32 @@
+# Add to the existing HTTPS server block after configuring TLS and server_name.
+root /var/www/elara-aerospace.com;
+index index.html;
+
+# Prevent source, credentials, directory listings and camera originals being served.
+autoindex off;
+location ~ /\.(?!well-known/) { deny all; }
+location ~* \.(?:env|pem|key|arw|heic|map|py|toml|lock)$ { deny all; }
+location / { try_files $uri $uri/ =404; }
+
+# HTML and stable script/style names revalidate; build-generated queries bust caches.
+location ~* \.(?:html|css|js|json|txt|xml|md)$ {
+    add_header Cache-Control "no-cache";
+    try_files $uri =404;
+}
+location ~* \.(?:jpg|jpeg|png|webp|svg|ico|mp4|woff2?)$ {
+    expires 1d;
+    try_files $uri =404;
+}
+gzip on;
+gzip_vary on;
+gzip_min_length 1024;
+gzip_types text/css application/javascript application/json application/xml image/svg+xml;
+
+# Set these in the outer server/HTTP block or repeat in locations as needed.
+# Nginx add_header directives at a location override inherited add_header settings.
+add_header X-Content-Type-Options "nosniff" always;
+add_header Referrer-Policy "strict-origin-when-cross-origin" always;
+add_header Permissions-Policy "camera=(), microphone=(), geolocation=()" always;
+
+# Forms make cross-origin requests to forms-eu1.hubspot.com.
+# Test any existing CSP with the custom forms before enforcing changes.

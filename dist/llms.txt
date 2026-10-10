@@ -1,0 +1,40 @@
+# Elara Aerospace
+
+> Elara Aerospace gGmbH is a German aerospace organization based in Garching bei München (near Munich) building reusable suborbital vehicles, rocket propulsion systems, and launch infrastructure for European research and hypersonic flight. The team of 45+ engineers develops flight hardware backed by a network of 30+ partner organizations.
+
+Key facts:
+- Hopper: VTVL (vertical takeoff, vertical landing) hopper testbed, ~650 kg liftoff mass, powered by the 7 kN TKL-7 KeraLox engine (developed with LEAP71), used to validate autonomous precision landing and rapid turnaround.
+- Starlight: suborbital research rocket ("spaceshot" vehicle), up to 100 kg payload to 150 km apogee, ~10 minute flight with 3 minutes of microgravity, Mach 5, powered by a 28 kN engine.
+- 28 kN engine: 28 kN electric pump-fed LOX/methane engine with regenerative cooling and a 3D-printed CuCr1Zr combustion chamber.
+- TB30: launch table for engine hot fires, hold-down tests, and launch operations rehearsal.
+- Payload access: Mission 01 has 50 kg total capacity, 5 kg confirmed and 45 kg available. Entry pricing is $2,500/kg for the first 20 kg; additional capacity is $4,000/kg, subject to technical review. Microgravity duration: 3 minutes. Schedule is agreed during technical review.
+- Contact: team@elara-aerospace.com | HQ: Freisinger Landstr. 52, 85748 Garching, Germany.
+
+## Vehicles & Technology
+
+- [Hopper (VTVL hopper)](https://elara-aerospace.com/starleap.html): Testbed for autonomous landing, subsystems, TKL-7 engine.
+- [Starlight (research rocket)](https://elara-aerospace.com/starlight.html): Vehicle specs, subsystems, 28 kN engine.
+- [TB30 (launch table)](https://elara-aerospace.com/tb30.html): Ground-test infrastructure and capabilities.
+- [Other R&D projects](https://elara-aerospace.com/other-projects.html): Avaris engine, valves, pressure regulators.
+
+## Fly a Payload
+
+- [Payload access & booking](https://elara-aerospace.com/payload.html): Mission parameters, pricing, reservation process for universities, research institutes, startups, and aerospace R&D teams.
+
+## Company
+
+- [About](https://elara-aerospace.com/about.html): Mission, roadmap, and why the organization exists.
+- [Team](https://elara-aerospace.com/team.html): Leadership, team leads, advisors, and open applications.
+- [News](https://elara-aerospace.com/news.html): Partnership announcements and program updates.
+- [Events](https://elara-aerospace.com/events.html): Upcoming events, past school visits, and industry appearances.
+- [Contact](https://elara-aerospace.com/contact.html): Inquiry form and addresses.
+
+## Support the Program
+
+- [Partner with us](https://elara-aerospace.com/partner-with-us.html): Partnership models, current needs, and what partners get.
+- [Partners](https://elara-aerospace.com/partners.html): Current partner network.
+- [Donate](https://elara-aerospace.com/donate.html): Donor plate initiative — donor names fly on the first vehicle.
+
+## Reference
+
+- [Rocketry glossary](https://elara-aerospace.com/glossary.html): Definitions of technical terms used across the site.

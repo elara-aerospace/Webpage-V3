@@ -1,0 +1,1882 @@
+{
+  "bundles": [
+    {
+      "root": "/Users/tomluca/PycharmProjects/EAWebsite/dist",
+      "pages": 42,
+      "local_references": 1604,
+      "failures": []
+    },
+    {
+      "root": "/Users/tomluca/PycharmProjects/EAWebsite/competition-dist",
+      "pages": 1,
+      "local_references": 6,
+      "failures": []
+    }
+  ],
+  "http": [
+    {
+      "url": "http://127.0.0.1:65008/llms.txt",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/llms.txt",
+      "content_type": "text/plain",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/starleap.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/starleap.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/403.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/403.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/team.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/team.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/payload_config.js",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/payload_config.js",
+      "content_type": "text/javascript",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/waam.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/waam.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/legal.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/legal.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/index.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/index.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/tb30.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/tb30.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/competition.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/competition.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/about.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/about.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/payload.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/payload.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/contact.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/contact.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/homepage-data.min.js",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/homepage-data.min.js",
+      "content_type": "text/javascript",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/other-projects.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/other-projects.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/500.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/500.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/404.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/404.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/app.min.js",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/app.min.js",
+      "content_type": "text/javascript",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/news.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/news.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/starlight.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/starlight.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/work.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/work.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/technology.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/technology.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/partner-with-us.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/partner-with-us.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/glossary.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/glossary.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/503.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/503.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/analytics.js",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/analytics.js",
+      "content_type": "text/javascript",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/starlight.min.css",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/starlight.min.css",
+      "content_type": "text/css",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/partners.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/partners.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/styles.min.css",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/styles.min.css",
+      "content_type": "text/css",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/llms-full.md",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/llms-full.md",
+      "content_type": "text/markdown",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/regulation-valve.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/regulation-valve.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/sitemap.xml",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/sitemap.xml",
+      "content_type": "application/xml",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/401.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/401.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/events.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/events.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/robots.txt",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/robots.txt",
+      "content_type": "text/plain",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/avaris.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/avaris.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/error.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/error.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/thank-you.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/thank-you.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/donate.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/donate.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/400.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/400.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/news/news-accelleron.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/news/news-accelleron.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/news/news-autodesk.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/news/news-autodesk.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/news/news-engine-development.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/news/news-engine-development.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/news/news-v4smart.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/news/news-v4smart.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/news/news-regal-rexnord.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/news/news-regal-rexnord.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/news/news-tuv-sud.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/news/news-tuv-sud.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/news/news-siegmund.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/news/news-siegmund.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/news/news-hoffmann.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/news/news-hoffmann.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/news/news-montanstahl.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/news/news-montanstahl.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/news/news-starleap-mmk.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/news/news-starleap-mmk.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/news/news-oest.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/news/news-oest.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/news/news-tum-partnership.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/news/news-tum-partnership.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/ui/news-hero-optimized.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/ui/news-hero-optimized.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/ui/ea-partner-white.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/ui/ea-partner-white.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/ui/ea-mark-square-white.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/ui/ea-mark-square-white.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/ui/mission-bg.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/ui/mission-bg.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/news/tum-partnership-2024.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/news/tum-partnership-2024.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/news/20260310_083323-hero.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/news/20260310_083323-hero.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/team/pablo-lopez-madrazo-portrait.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/team/pablo-lopez-madrazo-portrait.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/team/saumya-desai-portrait.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/team/saumya-desai-portrait.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/Logo_Boellhoff.svg.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/Logo_Boellhoff.svg.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/Logo-Therma.svg",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/Logo-Therma.svg",
+      "content_type": "image/svg+xml",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/V4Smart%20Logo-full%20colour-onLightBg.svg",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/V4Smart%20Logo-full%20colour-onLightBg.svg",
+      "content_type": "image/svg+xml",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/Montanstahl-Logo-Payoff_Black.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/Montanstahl-Logo-Payoff_Black.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/abicor-binzel.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/abicor-binzel.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/ANSYS_logo.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/ANSYS_logo.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/cadfem-logo-420x2801.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/cadfem-logo-420x2801.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/Thomson.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/Thomson.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/accelleron.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/accelleron.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/theo.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/theo.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/hbd.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/hbd.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/OEST_Lubricants.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/OEST_Lubricants.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/JBC-the-soldering-co-150ppi.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/JBC-the-soldering-co-150ppi.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/Logo_ifm-Unternehmensgruppe.svg",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/Logo_ifm-Unternehmensgruppe.svg",
+      "content_type": "image/svg+xml",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/rls.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/rls.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/xometry_logo_icon_170672.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/xometry_logo_icon_170672.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/siegmund.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/siegmund.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/CarbonCylinder.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/CarbonCylinder.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/hoffmann-group.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/hoffmann-group.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/1762324670boston-gear-vector-logo-new.svg",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/1762324670boston-gear-vector-logo-new.svg",
+      "content_type": "image/svg+xml",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/gce-specialty.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/gce-specialty.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/koenig-co.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/koenig-co.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/m4p.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/m4p.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/max-photonics.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/max-photonics.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/team/advisors/daniel-ossmann-portrait.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/team/advisors/daniel-ossmann-portrait.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/team/advisors/matthias-gerdts-portrait.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/team/advisors/matthias-gerdts-portrait.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/team/advisors/thomas-hofmann-portrait.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/team/advisors/thomas-hofmann-portrait.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/team/advisors/philipp-maume-portrait.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/team/advisors/philipp-maume-portrait.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/team/advisors/denis-vogel-portrait.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/team/advisors/denis-vogel-portrait.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/team/advisors/klaus-drechsler-portrait-2026.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/team/advisors/klaus-drechsler-portrait-2026.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/team/advisors/tobias-dickhut-portrait.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/team/advisors/tobias-dickhut-portrait.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/team/advisors/mohammad-ayoubi-portrait.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/team/advisors/mohammad-ayoubi-portrait.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/team/advisors/holger-patzelt-portrait.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/team/advisors/holger-patzelt-portrait.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/team/advisors/johann-dambeck-portrait-2026.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/team/advisors/johann-dambeck-portrait-2026.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/online/hetzner.png",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/online/hetzner.png",
+      "content_type": "image/png",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/online/ace.svg",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/online/ace.svg",
+      "content_type": "image/svg+xml",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/online/stmicroelectronics.png",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/online/stmicroelectronics.png",
+      "content_type": "image/png",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/online/myposter.png",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/online/myposter.png",
+      "content_type": "image/png",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/online/tergau-walkenhorst.png",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/online/tergau-walkenhorst.png",
+      "content_type": "image/png",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/online/mapal.png",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/online/mapal.png",
+      "content_type": "image/png",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/online/lrz.png",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/online/lrz.png",
+      "content_type": "image/png",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/online/blackwave.png",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/online/blackwave.png",
+      "content_type": "image/png",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/online/m3-company.png",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/online/m3-company.png",
+      "content_type": "image/png",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/online/exploration-company.png",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/online/exploration-company.png",
+      "content_type": "image/png",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/online/okr-institute.png",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/online/okr-institute.png",
+      "content_type": "image/png",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/fetched/makerspace.svg",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/fetched/makerspace.svg",
+      "content_type": "image/svg+xml",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/fetched/tuv-sud.svg",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/fetched/tuv-sud.svg",
+      "content_type": "image/svg+xml",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/fetched/munich-business-school-dark.svg",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/fetched/munich-business-school-dark.svg",
+      "content_type": "image/svg+xml",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/fetched/lmu.svg",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/fetched/lmu.svg",
+      "content_type": "image/svg+xml",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/fetched/unibw.svg",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/fetched/unibw.svg",
+      "content_type": "image/svg+xml",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/fetched/funding-for-innovators.svg",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/fetched/funding-for-innovators.svg",
+      "content_type": "image/svg+xml",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/fetched/hochschule-muenchen.png",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/fetched/hochschule-muenchen.png",
+      "content_type": "image/png",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/partners/fetched/tum.svg",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/partners/fetched/tum.svg",
+      "content_type": "image/svg+xml",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/assembly-of-the-montanstahl-test-frame-cffbce55.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/assembly-of-the-montanstahl-test-frame-cffbce55.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/cfturbo-ba691a46.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/cfturbo-ba691a46.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/simscale-4d8d39ef.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/simscale-4d8d39ef.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/tom-luca-reinhardt-a7161990.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/tom-luca-reinhardt-a7161990.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/ssip-5c7d39fc.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/ssip-5c7d39fc.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/tb30-flame-diverter-and-sound-suppression-render-33b2a67a.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/tb30-flame-diverter-and-sound-suppression-render-33b2a67a.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/murr-bf77d8bc.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/murr-bf77d8bc.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/thrust-vector-control-assembly-work-d9713226.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/thrust-vector-control-assembly-work-d9713226.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/hopper-flight-demonstrator-on-display-at-the-m-nchner-management-kolloquium-2fadef25.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/hopper-flight-demonstrator-on-display-at-the-m-nchner-management-kolloquium-2fadef25.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/20260310-083323-f038b13e.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/20260310-083323-f038b13e.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/theresa-schmitt-e970cd80.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/theresa-schmitt-e970cd80.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/28-kn-chamber-printing-on-aconity-system-bdbdd239.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/28-kn-chamber-printing-on-aconity-system-bdbdd239.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/elara-combustion-chamber-hardware-9a39a246.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/elara-combustion-chamber-hardware-9a39a246.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/metallux-501ef042.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/metallux-501ef042.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/hopperwlegswhuman-1-2026-apr-20-07-10-22am-000-customizedview10045039288-mobile-1014e996.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/hopperwlegswhuman-1-2026-apr-20-07-10-22am-000-customizedview10045039288-mobile-1014e996.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/synera-d487935a.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/synera-d487935a.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/walther-pr-zision-walcodo-89e5cbdc.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/walther-pr-zision-walcodo-89e5cbdc.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/tum-venture-labs-f25cfb4b.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/tum-venture-labs-f25cfb4b.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/leap-71-ee7ff2a2.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/leap-71-ee7ff2a2.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/kollmorgen-4e0ef1c1.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/kollmorgen-4e0ef1c1.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/elara-aerospace-delivery-hub-15ce0094.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/elara-aerospace-delivery-hub-15ce0094.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/elara-workshop-assembly-table-ac437018.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/elara-workshop-assembly-table-ac437018.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/autodesk-ef73f947.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/autodesk-ef73f947.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/hopperwlegswhuman-1-2026-apr-20-07-10-22am-000-customizedview10045039288-948efeec.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/hopperwlegswhuman-1-2026-apr-20-07-10-22am-000-customizedview10045039288-948efeec.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/seto-2353577c.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/seto-2353577c.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/tanks-before-welding-during-hopper-manufacturing-92e89c2a.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/tanks-before-welding-during-hopper-manufacturing-92e89c2a.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/elara-aerospace-headquarters-c8d98be5.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/elara-aerospace-headquarters-c8d98be5.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/tobias-j-ger-8c480129.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/tobias-j-ger-8c480129.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/elara-propulsion-hardware-c7f14e11.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/elara-propulsion-hardware-c7f14e11.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/hopper-hopper-design-with-four-landing-legs-propellant-tanks-and-engine-b440f603.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/hopper-hopper-design-with-four-landing-legs-propellant-tanks-and-engine-b440f603.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/vector-2822653f.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/vector-2822653f.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/elara-team-at-work-bc97b26a.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/elara-team-at-work-bc97b26a.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/amcm-d0900b78.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/amcm-d0900b78.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/full-length-design-render-of-the-starlight-rocket-8306e1ac.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/full-length-design-render-of-the-starlight-rocket-8306e1ac.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/olm-dde1c087.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/olm-dde1c087.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/strascheg-center-8b6c4a91.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/strascheg-center-8b6c4a91.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/tkl-7-rocket-engine-45d55a2d.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/tkl-7-rocket-engine-45d55a2d.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/elara-engineers-with-a-newly-manufactured-engine-at-aconity3d-99b39e6a.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/elara-engineers-with-a-newly-manufactured-engine-at-aconity3d-99b39e6a.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/adrian-leutner-99c69407.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/adrian-leutner-99c69407.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/yaskawa-welding-robot-used-as-a-waam-reference-a1ffd54e.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/yaskawa-welding-robot-used-as-a-waam-reference-a1ffd54e.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/acacb8d6-d929-493e-be1c-68f48d44aa31-mobile-3de95f0e.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/acacb8d6-d929-493e-be1c-68f48d44aa31-mobile-3de95f0e.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/payload-hardware-and-flight-electronics-0fd71293.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/payload-hardware-and-flight-electronics-0fd71293.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/formlabs-1e77a2b2.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/formlabs-1e77a2b2.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/ai-generated-illustration-of-repeated-hopper-flights-945621e5.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/ai-generated-illustration-of-repeated-hopper-flights-945621e5.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/basler-ag-e9562fbc.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/basler-ag-e9562fbc.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/elara-engineer-operating-test-stand-controls-on-a-tablet-6a973408.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/elara-engineer-operating-test-stand-controls-on-a-tablet-6a973408.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/elara-aerospace-connectivity-938df4ad.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/elara-aerospace-connectivity-938df4ad.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/completed-hopper-vehicle-at-oerlikon-tum-venture-labs-e464a7f5.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/completed-hopper-vehicle-at-oerlikon-tum-venture-labs-e464a7f5.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/gamma-technologies-e1e9d33f.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/gamma-technologies-e1e9d33f.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/aconity3d-f0e0b144.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/aconity3d-f0e0b144.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/confoot-5dd4d867.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/confoot-5dd4d867.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/santa-clara-university-e51c5880.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/santa-clara-university-e51c5880.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/ksb-0e3bc54b.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/ksb-0e3bc54b.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/elara-team-with-development-hardware-0c7f319c.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/elara-team-with-development-hardware-0c7f319c.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/elara-team-members-beside-the-hopper-hopper-db47c706.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/elara-team-members-beside-the-hopper-hopper-db47c706.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/nippon-gases-17c876b1.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/nippon-gases-17c876b1.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/elara-propulsion-hardware-65e71e61.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/elara-propulsion-hardware-65e71e61.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/cad-design-of-the-tb30-launch-table-6cf7fcac.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/cad-design-of-the-tb30-launch-table-6cf7fcac.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/ai-generated-illustration-of-hopper-hovering-untethered-above-a-test-pad-b48f9334.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/ai-generated-illustration-of-hopper-hovering-untethered-above-a-test-pad-b48f9334.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/rufus-henschek-be56a531.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/rufus-henschek-be56a531.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/creality-98eafc19.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/creality-98eafc19.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/kaeser-kompressoren-a40bf3b7.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/kaeser-kompressoren-a40bf3b7.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/acacb8d6-d929-493e-be1c-68f48d44aa31-f741e514.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/acacb8d6-d929-493e-be1c-68f48d44aa31-f741e514.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/starlight-engine-development-ecc5ea56.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/starlight-engine-development-ecc5ea56.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/voxeljet-dfac1f70.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/voxeljet-dfac1f70.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/gtm-d53cad28.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/gtm-d53cad28.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/a-view-from-elara-s-work-08ffd5d5.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/a-view-from-elara-s-work-08ffd5d5.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/the-hopper-hopper-at-an-elara-event-ec4ca058.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/the-hopper-hopper-at-an-elara-event-ec4ca058.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/avaris-3-kn-rocket-engine-combustion-chamber-3d691ca5.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/avaris-3-kn-rocket-engine-combustion-chamber-3d691ca5.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/w-rth-elektronik-40ce2e03.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/w-rth-elektronik-40ce2e03.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/nordalp-b380a8e9.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/nordalp-b380a8e9.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/go-east-c513eff9.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/go-east-c513eff9.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/dassault-syst-mes-2997bfcc.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/dassault-syst-mes-2997bfcc.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/linear-motors-for-the-hopper-thrust-vector-control-system-f79b7c54.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/linear-motors-for-the-hopper-thrust-vector-control-system-f79b7c54.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/ai-generated-illustration-of-hopper-tethered-to-an-overhead-crane-during-a-flight-tes-6bbe0325.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/ai-generated-illustration-of-hopper-tethered-to-an-overhead-crane-during-a-flight-tes-6bbe0325.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/elara-engineers-discussing-engine-hardware-at-myle-e692d37d.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/elara-engineers-discussing-engine-hardware-at-myle-e692d37d.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/unternehmertum-5825de9b.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/unternehmertum-5825de9b.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/regal-rexnord-tvc-technology-1a2fe156.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/regal-rexnord-tvc-technology-1a2fe156.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/aerospace-machining-poster-caae27b9.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/aerospace-machining-poster-caae27b9.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/elara-engineers-at-an-event-f69907ac.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/elara-engineers-at-an-event-f69907ac.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/fibrolux-1668675e.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/fibrolux-1668675e.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/site/hardware-from-the-elara-program-b2cef03b.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/site/hardware-from-the-elara-program-b2cef03b.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/starlight/logo-320.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/starlight/logo-320.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/starlight/nozzle-injector-720.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/starlight/nozzle-injector-720.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/starlight/nozzle-1200.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/starlight/nozzle-1200.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/starlight/propulsion-240.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/starlight/propulsion-240.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/starlight/nozzle-720.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/starlight/nozzle-720.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/starlight/vehicle-1920.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/starlight/vehicle-1920.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/starlight/vehicle-1280.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/starlight/vehicle-1280.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/starlight/nozzle-360.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/starlight/nozzle-360.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/starlight/propulsion-929.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/starlight/propulsion-929.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/starlight/vehicle-2585.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/starlight/vehicle-2585.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/starlight/nozzle-injector-360.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/starlight/nozzle-injector-360.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/starlight/vehicle-640.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/starlight/vehicle-640.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/starlight/propulsion-480.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/starlight/propulsion-480.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/optimized/starlight/nozzle-injector-1067.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/optimized/starlight/nozzle-injector-1067.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/vehicles/starleap/hopper-mmk-photo-mobile.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/vehicles/starleap/hopper-mmk-photo-mobile.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/campaigns/2026/v4smart-battery.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/campaigns/2026/v4smart-battery.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/campaigns/2026/28kn-nozzle.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/campaigns/2026/28kn-nozzle.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/campaigns/2026/fluidline-workshop.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/campaigns/2026/fluidline-workshop.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/campaigns/2026/3kn-injector-model.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/campaigns/2026/3kn-injector-model.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/campaigns/2026/test-stand-wiring.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/campaigns/2026/test-stand-wiring.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/campaigns/2026/test-stand-ignitor.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/campaigns/2026/test-stand-ignitor.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/campaigns/2026/gtm-force-sensors-clean.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/campaigns/2026/gtm-force-sensors-clean.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/campaigns/2026/engineer-at-test-stand.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/campaigns/2026/engineer-at-test-stand.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/campaigns/2026/test-stand-electronics.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/campaigns/2026/test-stand-electronics.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/campaigns/2026/hopper-myle-exhibition.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/campaigns/2026/hopper-myle-exhibition.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/campaigns/2026/hopper-mmk.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/campaigns/2026/hopper-mmk.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/campaigns/2026/aerospace-machining-2x.mp4",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/campaigns/2026/aerospace-machining-2x.mp4",
+      "content_type": "video/mp4",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/campaigns/2026/engine-machining.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/campaigns/2026/engine-machining.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/campaigns/2026/steel-delivery.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/campaigns/2026/steel-delivery.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/campaigns/2026/team-myle.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/campaigns/2026/team-myle.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/campaigns/2026/welding.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/campaigns/2026/welding.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65008/assets/campaigns/2026/cnc-manufacturing.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65008/assets/campaigns/2026/cnc-manufacturing.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65238/index.html",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65238/index.html",
+      "content_type": "text/html",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65238/app.min.js",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65238/app.min.js",
+      "content_type": "text/javascript",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65238/analytics.js",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65238/analytics.js",
+      "content_type": "text/javascript",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65238/styles.min.css",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65238/styles.min.css",
+      "content_type": "text/css",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65238/robots.txt",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65238/robots.txt",
+      "content_type": "text/plain",
+      "cache_control": null,
+      "content_encoding": null
+    },
+    {
+      "url": "http://127.0.0.1:65238/assets/ui/ea-partner-white.webp",
+      "status": 200,
+      "final_url": "http://127.0.0.1:65238/assets/ui/ea-partner-white.webp",
+      "content_type": "image/webp",
+      "cache_control": null,
+      "content_encoding": null
+    }
+  ]
+}

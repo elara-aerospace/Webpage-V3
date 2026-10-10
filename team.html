@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="Meet the engineers, operators, and program leads building Elara Aerospace." name="description"/>
+<title>Team | Elara Aerospace</title>
+<!-- Font Preconnection for Performance -->
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&amp;family=Barlow+Condensed:wght@600;700;800&amp;family=JetBrains+Mono:wght@400;700&amp;display=swap" rel="stylesheet"/>
+<link href="./styles.min.css?v=20261009-feedback" rel="stylesheet"/>
+<style>
+    .application-section {
+      background: var(--bg-deep);
+      border-top: 1px solid var(--border);
+    }
+
+    .application-panel {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 70px;
+      background: var(--bg-panel);
+      border: 1px solid var(--border);
+    }
+
+    .application-panel h2 {
+      text-align: center;
+      margin-bottom: 22px;
+    }
+
+    .application-panel p {
+      max-width: 620px;
+      margin: 0 auto 45px;
+      color: var(--muted);
+      text-align: center;
+    }
+
+    .application-form-intro {
+      margin-bottom: 42px;
+      padding-top: 28px;
+      border-top: 1px solid var(--border);
+    }
+
+    .application-panel .form-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+    }
+
+    .application-panel .form-group {
+      margin-bottom: 25px;
+    }
+
+    .application-panel .form-group label,
+    .application-panel .form-label {
+      display: block;
+      font-family: var(--font-heading);
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      color: var(--muted);
+      margin-bottom: 10px;
+    }
+
+    .application-panel .form-control {
+      width: 100%;
+      min-height: 54px;
+      background: var(--bg-input);
+      border: 1px solid var(--border);
+      padding: 15px;
+      color: white;
+      font-family: inherit;
+      font-size: 1rem;
+      transition: border-color 0.3s ease, background 0.3s ease;
+    }
+
+    .application-panel textarea.form-control {
+      min-height: 150px;
+      resize: vertical;
+    }
+
+    .application-panel .form-control:focus {
+      outline: none;
+      border-color: white;
+      background: var(--bg-input-focus);
+    }
+
+    .application-panel .file-control {
+      padding: 0;
+      overflow: hidden;
+      color: var(--muted);
+      font-size: 0.9rem;
+      cursor: pointer;
+    }
+
+    .application-panel .file-control::file-selector-button {
+      min-height: 52px;
+      margin-right: 18px;
+      padding: 0 24px;
+      border: 0;
+      border-right: 1px solid var(--border-bright);
+      background: var(--bg-option);
+      color: var(--text);
+      font-family: var(--font-heading);
+      font-size: 0.82rem;
+      font-weight: 700;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      cursor: pointer;
+      transition: background 0.25s ease, color 0.25s ease;
+    }
+
+    .application-panel .file-control:hover::file-selector-button,
+    .application-panel .file-control:focus::file-selector-button {
+      background: var(--text);
+      color: var(--bg);
+    }
+
+    .application-panel .option-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 12px;
+    }
+
+    .application-panel .option-pill {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      min-height: 52px;
+      padding: 14px 16px;
+      border: 1px solid var(--border);
+      background: var(--bg-option);
+      color: white;
+      cursor: pointer;
+    }
+
+    .application-panel .option-pill input {
+      accent-color: var(--text);
+    }
+
+    .application-panel .file-note,
+    .application-panel .consent-text {
+      color: var(--muted);
+      font-size: 0.85rem;
+      line-height: 1.7;
+    }
+
+    .application-panel .consent-box {
+      display: grid;
+      gap: 14px;
+      padding: 20px;
+      border: 1px solid var(--border);
+      background: var(--bg-option);
+    }
+
+
+    .application-panel .privacy-link {
+      color: white;
+      text-decoration: underline;
+    }
+
+    @media (max-width: 768px) {
+      .application-panel {
+        margin: 0 20px;
+        padding: 32px 24px;
+      }
+
+      .application-panel .form-grid,
+      .application-panel .option-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  .advisor-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 40px 28px; }
+.advisor-card { min-width: 0; }
+.advisor-portrait { aspect-ratio: 1; overflow: hidden; margin-bottom: 20px; background: #111; }
+.advisor-portrait img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.advisor-card .landing-label { margin-bottom: 10px; }
+.advisor-card h3 { font-size: 22px; line-height: 1.35; margin-bottom: 16px; }
+.advisor-card .advisor-socials { display: flex; gap: 18px; font-size: 13px; }
+@media(max-width: 1000px) { .advisor-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media(max-width: 550px) { .advisor-grid { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body class="landing-page editorial-page team-page"><a class="landing-skip" href="#main-content">Skip to content</a>
+<header class="site-header">
+<div class="logo-container">
+<a href="./index.html"><img alt="Elara Aerospace" src="./assets/ui/ea-partner-white.webp"/></a>
+</div>
+<div class="social-sidebar">
+<a aria-label="LinkedIn" href="https://www.linkedin.com/company/elara-aerospace" target="_blank">
+<svg aria-hidden="true" viewbox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"></path></svg>
+</a>
+<a aria-label="Instagram" href="https://www.instagram.com/elara_aerospace/" target="_blank">
+<svg aria-hidden="true" viewbox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"></path></svg>
+</a>
+<a aria-label="X" href="https://x.com/Elara_Aerospace" target="_blank">
+<svg aria-hidden="true" viewbox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"></path></svg>
+</a>
+<a aria-label="GitHub" href="https://github.com/elara-aerospace" target="_blank">
+<svg aria-hidden="true" viewbox="0 0 24 24"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.841 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"></path></svg>
+</a>
+</div>
+<a class="team-link" href="./team.html#apply">
+<svg aria-hidden="true" viewbox="0 0 24 24"><path d="M20 6h-4V4c0-1.11-.89-2-2-2h-4c-1.11 0-2 .89-2 2v2H4c-1.11 0-1.99.89-1.99 2L2 19c0 1.11.89 2 2 2h16c1.11 0 2-.89 2-2V8c0-1.11-.89-2-2-2zm-8-2h4v2h-4V4z"></path></svg>
+<span>Apply</span>
+</a>
+<button aria-controls="main-navigation" aria-expanded="false" aria-label="Toggle navigation" class="nav-toggle">
+<span></span>
+</button>
+<nav aria-label="Main navigation" class="site-nav" id="main-navigation">
+<div class="nav-item"><a href="./index.html">Home</a></div>
+<div class="nav-item"><a href="./starleap.html">Technology</a><div class="dropdown"><a href="./starleap.html">Hopper</a><a href="./starlight.html">Starlight (LV1 Rocket)</a><a href="./tb30.html">TB30 (Test Stand)</a><a href="./other-projects.html">Other Research (R&amp;D)</a></div></div>
+<div class="nav-item"><a href="./payload.html">Payload</a></div>
+<div class="nav-item"><a href="./news.html">News</a></div>
+<div class="nav-item"><a href="./events.html">Events</a></div>
+<div class="nav-item"><a href="./team.html">Team</a></div>
+<div class="nav-item"><a href="./partners.html">Partners</a><div class="dropdown"><a href="./partners.html">Partners</a><a href="./partner-with-us.html">Partner With Us</a><a href="./donate.html">Donate</a></div></div>
+<div class="nav-item"><a href="./about.html">About</a></div>
+<div class="nav-item mobile-only"><a href="./contact.html">Contact</a></div>
+</nav>
+<div class="header-actions">
+<a class="btn btn-secondary" href="./partner-with-us.html" style="padding: 10px 25px; min-width: auto; border-width: 1px;">Partner With Us</a>
+</div>
+</header>
+<main class="landing-main editorial-main" id="main-content">
+<!-- Hero Section -->
+<section aria-labelledby="page-title" class="landing-hero editorial-hero"><div class="landing-hero-copy"><p class="landing-label">The people behind Elara</p><h1 id="page-title">Engineers.<br/>And builders.</h1><p class="landing-intro">Meet the people working across propulsion, structures, avionics, manufacturing, and operations in Garching, Germany.</p><div class="editorial-actions"><a class="landing-button" href="#apply">Join the team <span aria-hidden="true">↗</span></a></div></div><figure class="landing-hero-image"><img alt="Elara team members beside the Hopper hopper" decoding="async" fetchpriority="high" src="./assets/optimized/site/elara-team-members-beside-the-hopper-hopper-db47c706.webp"/></figure></section>
+<section class="section editorial-section" id="advisors"><div class="editorial-section-heading"><p class="landing-label">Strategic Guidance</p><div class="editorial-heading-copy"><h2>Advisors</h2></div></div><div class="advisor-grid"><article class="advisor-card"><div class="advisor-portrait"><img alt="Prof. Dr. Thomas F. Hofmann" loading="lazy" src="./assets/team/advisors/thomas-hofmann-portrait.webp"/></div><p class="landing-label">Project Patron</p><h3>Prof. Dr. Thomas F. Hofmann</h3><div class="advisor-socials"><a aria-label="Prof. Dr. Thomas F. Hofmann on LinkedIn" href="https://www.linkedin.com/in/thomas-f-hofmann-164589152/" rel="noopener noreferrer" target="_blank">LinkedIn ↗</a><a aria-label="Prof. Dr. Thomas F. Hofmann profile" href="https://www.tum.de/ueber-die-tum/organisation/hochschulpraesidium" rel="noopener noreferrer" target="_blank">Profile ↗</a></div></article><article class="advisor-card"><div class="advisor-portrait"><img alt="Prof. Dr. Matthias Gerdts" loading="lazy" src="./assets/team/advisors/matthias-gerdts-portrait.webp"/></div><p class="landing-label">Engineering Mathematics</p><h3>Prof. Dr. Matthias Gerdts</h3><div class="advisor-socials"><a aria-label="Prof. Dr. Matthias Gerdts on LinkedIn" href="https://www.linkedin.com/in/matthias-gerdts-80710628/" rel="noopener noreferrer" target="_blank">LinkedIn ↗</a><a aria-label="Prof. Dr. Matthias Gerdts profile" href="https://www.unibw.de/ingmathe/members/prof-dr-rer-nat-matthias-gerdts" rel="noopener noreferrer" target="_blank">Profile ↗</a></div></article><article class="advisor-card"><div class="advisor-portrait"><img alt="Prof. Dr.-Ing. Klaus Drechsler" loading="lazy" src="./assets/team/advisors/klaus-drechsler-portrait-2026.webp" style="object-position: 28% center;"/></div><p class="landing-label">Carbon Composites</p><h3>Prof. Dr.-Ing. Klaus Drechsler</h3><div class="advisor-socials"><a aria-label="Prof. Dr.-Ing. Klaus Drechsler on LinkedIn" href="https://www.linkedin.com/in/klaus-drechsler-67478b138/" rel="noopener noreferrer" target="_blank">LinkedIn ↗</a><a aria-label="Prof. Dr.-Ing. Klaus Drechsler profile" href="https://www.professoren.tum.de/en/drechsler-klaus" rel="noopener noreferrer" target="_blank">Profile ↗</a></div></article><article class="advisor-card"><div class="advisor-portrait"><img alt="Prof. Mohammad A. Ayoubi" loading="lazy" src="./assets/team/advisors/mohammad-ayoubi-portrait.webp" style="object-position: center 20%;"/></div><p class="landing-label">Intelligent Control Systems</p><h3>Prof. Mohammad A. Ayoubi</h3><div class="advisor-socials"><a aria-label="Prof. Mohammad A. Ayoubi on LinkedIn" href="https://www.linkedin.com/in/mohammad-ayoubi-13684317/" rel="noopener noreferrer" target="_blank">LinkedIn ↗</a><a aria-label="Prof. Mohammad A. Ayoubi profile" href="https://www.scu.edu/engineering/faculty/ayoubi-mohammad-ali/" rel="noopener noreferrer" target="_blank">Profile ↗</a></div></article><article class="advisor-card"><div class="advisor-portrait"><img alt="Prof. Dr.-Ing. Johann Dambeck" loading="lazy" src="./assets/team/advisors/johann-dambeck-portrait-2026.webp" style="object-position: center top;"/></div><p class="landing-label">Flight Navigation</p><h3>Prof. Dr.-Ing. Johann Dambeck</h3><div class="advisor-socials"><a aria-label="Prof. Dr.-Ing. Johann Dambeck on LinkedIn" href="https://www.linkedin.com/in/johann-dambeck-058438287/" rel="noopener noreferrer" target="_blank">LinkedIn ↗</a><a aria-label="Prof. Dr.-Ing. Johann Dambeck profile" href="https://www.professoren.tum.de/en/honorary-professors/d/dambeck-johann" rel="noopener noreferrer" target="_blank">Profile ↗</a></div></article><article class="advisor-card"><div class="advisor-portrait"><img alt="Prof. Dr.-Ing. Tobias Dickhut" loading="lazy" src="./assets/team/advisors/tobias-dickhut-portrait.webp"/></div><p class="landing-label">Engineering Mechanics</p><h3>Prof. Dr.-Ing. Tobias Dickhut</h3><div class="advisor-socials"><a aria-label="Prof. Dr.-Ing. Tobias Dickhut on LinkedIn" href="https://www.linkedin.com/in/prof-dr-tobias-dickhut-757887153/" rel="noopener noreferrer" target="_blank">LinkedIn ↗</a><a aria-label="Prof. Dr.-Ing. Tobias Dickhut profile" href="https://www.unibw.de/universitaet/berufung/neuberufene/prof-dr-tobias-dickhut" rel="noopener noreferrer" target="_blank">Profile ↗</a></div></article><article class="advisor-card"><div class="advisor-portrait"><img alt="Prof. Dr.-Ing. Daniel Ossmann" loading="lazy" src="./assets/team/advisors/daniel-ossmann-portrait.webp" style="object-position: center 20%;"/></div><p class="landing-label">Guidance, Navigation &amp; Control</p><h3>Prof. Dr.-Ing. Daniel Ossmann</h3><div class="advisor-socials"><a aria-label="Prof. Dr.-Ing. Daniel Ossmann on LinkedIn" href="https://www.linkedin.com/in/daniel-ossmann-2bb1b3a0/" rel="noopener noreferrer" target="_blank">LinkedIn ↗</a><a aria-label="Prof. Dr.-Ing. Daniel Ossmann profile" href="https://hm.edu/kontakte_de/contact_detail_41224.de.html" rel="noopener noreferrer" target="_blank">Profile ↗</a></div></article><article class="advisor-card"><div class="advisor-portrait"><img alt="Prof. Dr. Holger Patzelt" loading="lazy" src="./assets/team/advisors/holger-patzelt-portrait.webp"/></div><p class="landing-label">Entrepreneurship</p><h3>Prof. Dr. Holger Patzelt</h3><div class="advisor-socials"><a aria-label="Prof. Dr. Holger Patzelt on LinkedIn" href="https://www.linkedin.com/in/holger-patzelt-76b501123/" rel="noopener noreferrer" target="_blank">LinkedIn ↗</a><a aria-label="Prof. Dr. Holger Patzelt profile" href="https://www.ie.mgt.tum.de/en/ent/team/holger-patzelt/" rel="noopener noreferrer" target="_blank">Profile ↗</a></div></article><article class="advisor-card"><div class="advisor-portrait"><img alt="Prof. Dr. iur. Philipp Maume" loading="lazy" src="./assets/team/advisors/philipp-maume-portrait.webp"/></div><p class="landing-label">German Law and EU Regulations</p><h3>Prof. Dr. iur. Philipp Maume</h3><div class="advisor-socials"><a aria-label="Prof. Dr. iur. Philipp Maume on LinkedIn" href="https://www.linkedin.com/in/philipp-maume-06877071/" rel="noopener noreferrer" target="_blank">LinkedIn ↗</a><a aria-label="Prof. Dr. iur. Philipp Maume profile" href="https://www.fa.mgt.tum.de/en/law/team/prof-maume/" rel="noopener noreferrer" target="_blank">Profile ↗</a></div></article><article class="advisor-card"><div class="advisor-portrait"><img alt="Denis Vogel" loading="lazy" src="./assets/team/advisors/denis-vogel-portrait.webp"/></div><p class="landing-label">Precision Robotics &amp; Advanced Manufacturing</p><h3>Denis Vogel</h3><div class="advisor-socials"><a aria-label="Denis Vogel on LinkedIn" href="https://www.linkedin.com/in/denis-v-707b0214b/" rel="noopener noreferrer" target="_blank">LinkedIn ↗</a></div></article></div></section>
+<!-- Team Grid -->
+<span id="page-content"></span><section class="section editorial-section">
+<div class="text-content"><div class="editorial-section-heading"><div class="editorial-heading-copy"><h2>Executive Team</h2></div></div>
+</div>
+<div class="stats-grid executive-grid">
+<div class="stat-item executive-card">
+<div class="team-portrait-placeholder" style="margin-bottom: 20px;">
+<img alt="Tom Luca Reinhardt" loading="lazy" src="./assets/optimized/site/tom-luca-reinhardt-a7161990.webp"/>
+</div>
+<div class="stat-label">CEO</div>
+<div class="stat-value" style="font-size: 1.8rem;">Tom Luca Reinhardt</div>
+<a href="mailto:tomluca.reinhardt@elara-aerospace.com" style="display: inline-block; margin-top: 8px; color: var(--muted); font-size: 0.9rem;">tomluca.reinhardt@elara-aerospace.com</a>
+<p style="margin-top: 10px; color: var(--muted); font-size: 0.95rem;">Directing the long-term vision and
+            strategic growth of the organization.</p>
+</div>
+<div class="stat-item executive-card">
+<div class="team-portrait-placeholder" style="margin-bottom: 20px;">
+<img alt="Adrian Leutner" loading="lazy" src="./assets/optimized/site/adrian-leutner-99c69407.webp"/>
+</div>
+<div class="stat-label">CTO</div>
+<div class="stat-value" style="font-size: 1.8rem;">Adrian Leutner</div>
+<a href="mailto:adrian.leutner@elara-aerospace.com" style="display: inline-block; margin-top: 8px; color: var(--muted); font-size: 0.9rem;">adrian.leutner@elara-aerospace.com</a>
+<p style="margin-top: 10px; color: var(--muted); font-size: 0.95rem;">Overseeing vehicle architecture and
+            technical implementation.</p>
+</div>
+<div class="stat-item executive-card">
+<div class="team-portrait-placeholder" style="margin-bottom: 20px;">
+<img alt="Tobias Jäger" loading="lazy" src="./assets/optimized/site/tobias-j-ger-8c480129.webp"/>
+</div>
+<div class="stat-label">COO</div>
+<div class="stat-value" style="font-size: 1.8rem;">Tobias Jäger</div>
+<a href="mailto:tobias.jager@elara-aerospace.com" style="display: inline-block; margin-top: 8px; color: var(--muted); font-size: 0.9rem;">tobias.jager@elara-aerospace.com</a>
+<p style="margin-top: 10px; color: var(--muted); font-size: 0.95rem;">Managing public outreach and industrial
+            research partnerships.</p>
+</div>
+</div>
+</section>
+<!-- Team Leads -->
+<section class="section editorial-section">
+<div class="text-content"><div class="editorial-section-heading"><div class="editorial-heading-copy"><h2>Team Leads</h2></div></div>
+</div>
+<div class="stats-grid" style="grid-template-columns: repeat(4, 1fr); gap: 30px;">
+<div class="stat-item" style="padding-bottom: 30px; border: none; padding-left: 0;">
+<div class="team-portrait-placeholder" style="margin-bottom: 15px; aspect-ratio: 1/1; overflow: hidden;">
+<img alt="Theresa Schmitt" loading="lazy" src="./assets/optimized/site/theresa-schmitt-e970cd80.webp" style="transform: scale(2.3); transform-origin: center 45%; object-fit: cover; width: 100%; height: 100%;"/>
+</div>
+<div class="stat-label">Structural Lead</div>
+<div class="stat-value" style="font-size: 1.4rem;">Theresa Schmitt</div>
+</div>
+<div class="stat-item" style="padding-bottom: 30px; border: none; padding-left: 0;">
+<div class="team-portrait-placeholder" style="margin-bottom: 15px; aspect-ratio: 1/1; overflow: hidden;">
+<img alt="Rufus Henschek" loading="lazy" src="./assets/optimized/site/rufus-henschek-be56a531.webp" style="transform: scale(2.0); transform-origin: center 55%; object-fit: cover; width: 100%; height: 100%;"/>
+</div>
+<div class="stat-label">Airframe Lead</div>
+<div class="stat-value" style="font-size: 1.4rem;">Rufus Henschek</div>
+</div>
+<div class="stat-item" style="padding-bottom: 30px; border: none; padding-left: 0;">
+<div class="team-portrait-placeholder" style="margin-bottom: 15px; aspect-ratio: 1/1;"><img alt="Saumya Desai" loading="lazy" src="./assets/team/saumya-desai-portrait.webp" style="object-position: center 20%;"/></div>
+<div class="stat-label">Software Lead</div>
+<div class="stat-value" style="font-size: 1.4rem;">Saumya Desai</div>
+</div>
+<div class="stat-item" style="padding-bottom: 30px; border: none; padding-left: 0;">
+<div class="team-portrait-placeholder" style="margin-bottom: 15px; aspect-ratio: 1/1;"><img alt="Pablo Constantino López-madrazo Luengo" loading="lazy" src="./assets/team/pablo-lopez-madrazo-portrait.webp" style="object-position: center 20%;"/></div>
+<div class="stat-label">Electronics Lead</div>
+<div class="stat-value" style="font-size: 1.4rem;">Pablo Constantino López-madrazo Luengo
+          </div>
+</div>
+</div>
+</section>
+<!-- Student Application -->
+<section class="section application-section editorial-section" id="apply">
+<div class="application-panel">
+<p class="technical-label landing-label" style="text-align: center;">Team Application</p>
+<h2>Apply To Join Elara</h2>
+<p>
+          Students and early-career builders can apply to work on flight hardware, propulsion, avionics, structures,
+          software, and launch operations.
+        </p>
+<form class="custom-form" enctype="multipart/form-data" id="student-application-form">
+<input id="student-hs-context" name="hs_context" type="hidden"/>
+<p class="application-form-intro">We use your application internally to review your fit, availability, and interests.</p>
+<div class="form-group">
+<label for="student-email">Email</label>
+<input autocomplete="email" class="form-control" id="student-email" name="email" placeholder="max.mustermann@domain.com" required="" type="email"/>
+</div>
+<div class="form-grid">
+<div class="form-group">
+<label for="student-firstname">First Name</label>
+<input autocomplete="given-name" class="form-control" id="student-firstname" name="firstname" placeholder="Max" required="" type="text"/>
+</div>
+<div class="form-group">
+<label for="student-lastname">Last Name</label>
+<input autocomplete="family-name" class="form-control" id="student-lastname" name="lastname" placeholder="Mustermann" required="" type="text"/>
+</div>
+</div>
+<div class="form-grid">
+<div class="form-group">
+<label for="student-age">Age</label>
+<input class="form-control" id="student-age" max="99" min="16" name="age" placeholder="Enter number" required="" type="number"/>
+</div>
+<div class="form-group">
+<label for="student-nationality">Nationality</label>
+<input class="form-control" id="student-nationality" name="hs_country_region_code" placeholder="e.g. German" required="" type="text"/>
+</div>
+</div>
+<div class="form-group">
+<label for="student-studies">Field Of Study / Degree</label>
+<input class="form-control" id="student-studies" name="studies" placeholder="B.Sc. Rocket Science" required="" type="text"/>
+</div>
+<div class="form-group">
+<label for="student-joined-date">Available From</label>
+<input class="form-control" id="student-joined-date" name="joined_date" required="" type="date"/>
+</div>
+<div class="form-group">
+<span class="form-label">Available For In-Person Meetings In Munich?</span>
+<div class="option-grid">
+<label class="option-pill">
+<input name="in_person_meetings" required="" type="radio" value="Yes"/>
+<span>Yes</span>
+</label>
+<label class="option-pill">
+<input name="in_person_meetings" required="" type="radio" value="No"/>
+<span>No</span>
+</label>
+</div>
+</div>
+<div class="form-group">
+<span class="form-label">Planned Time Commitment</span>
+<div class="option-grid">
+<label class="option-pill">
+<input name="spent_time" required="" type="radio" value="10 - 20 h/week"/>
+<span>10 - 20 h/week</span>
+</label>
+<label class="option-pill">
+<input name="spent_time" required="" type="radio" value="20 - 30 h/week"/>
+<span>20 - 30 h/week</span>
+</label>
+<label class="option-pill">
+<input name="spent_time" required="" type="radio" value="30 - 40 h/week"/>
+<span>30 - 40 h/week</span>
+</label>
+<label class="option-pill">
+<input name="spent_time" required="" type="radio" value="&gt; 40 h/week"/>
+<span>&gt; 40 h/week</span>
+</label>
+</div>
+</div>
+<div class="form-group">
+<label for="student-strengths">Strengths, Motivation, And Referral</label>
+<textarea class="form-control" id="student-strengths" name="strengths" placeholder="My strengths: ... / My motivation to join Elara Aerospace: ... / Referral: University, friends, or social media" required="" rows="6"></textarea>
+</div>
+<div class="form-group">
+<label for="student-cv">CV And Additional Documents</label>
+<input accept=".pdf,.doc,.docx" class="form-control file-control" id="student-cv" multiple="" name="cv" required="" type="file"/>
+<div class="file-note">Preferably PDF or DOCX. You can upload multiple files.</div>
+</div>
+<div class="form-group consent-box">
+<label class="form-checkbox-label">
+<input name="LEGAL_CONSENT.processing" required="" type="checkbox" value="true"/>
+<span>I agree to allow Elara Aerospace to store and process my personal data for this application.</span>
+</label>
+<label class="form-checkbox-label">
+<input name="LEGAL_CONSENT.subscription_type_265883360" type="checkbox" value="true"/>
+<span>I agree to receive other communications from Elara Aerospace.</span>
+</label>
+<label class="form-checkbox-label">
+<input name="privacy_policy_confirm" required="" type="checkbox" value="true"/>
+<span>By sending this form, I confirm that I have read and understood the <a class="privacy-link" href="./legal.html">Privacy Policy</a>.</span>
+</label>
+<div class="consent-text">
+              By submitting, I understand that work completed at Elara Aerospace is voluntary.
+            </div>
+</div>
+<button class="btn btn-primary" style="width: 100%; margin-top: 20px;" type="submit">Submit
+            Application</button>
+<div id="student-form-status" style="margin-top: 20px; text-align: center; font-size: 0.9rem; display: none;">
+</div>
+</form>
+</div>
+</section>
+</main>
+<footer class="site-footer">
+<section aria-label="Newsletter subscription" class="footer-newsletter">
+<div class="footer-newsletter-copy">
+<p class="technical-label">Follow the work as it develops</p>
+<h2>Subscribe to our newsletter</h2>
+<p>Receive technology updates, test campaign milestones, and event invitations from Elara Aerospace.</p>
+</div>
+<form class="newsletter-form" data-hubspot-form-id="e8ffd25d-7a5a-4be8-983d-64d6f8905f62" data-newsletter-form="">
+<div class="newsletter-form-grid">
+<div class="newsletter-field"><label for="newsletter-firstname-team">First Name</label><input autocomplete="given-name" class="newsletter-control" id="newsletter-firstname-team" name="firstname" required="" type="text"/></div>
+<div class="newsletter-field"><label for="newsletter-lastname-team">Last Name</label><input autocomplete="family-name" class="newsletter-control" id="newsletter-lastname-team" name="lastname" required="" type="text"/></div>
+<div class="newsletter-field newsletter-field-email"><label for="newsletter-email-team">Email</label><input autocomplete="email" class="newsletter-control" id="newsletter-email-team" name="email" required="" type="email"/></div>
+</div>
+<div class="newsletter-consent"><label class="form-checkbox-label"><input name="newsletter_consent" required="" type="checkbox" value="true"/><span>I would like to receive the newsletter and accept the <a href="./legal.html?tab=privacy-policy">Privacy Policy</a>.</span></label></div>
+<button class="btn btn-primary newsletter-submit" type="submit">Subscribe</button>
+<p class="newsletter-status" data-newsletter-status="" role="status"></p>
+</form>
+</section>
+<div class="footer-grid">
+<div class="footer-brand">
+<img alt="Elara Aerospace" class="footer-logo" src="./assets/ui/ea-partner-white.webp"/>
+<p>Building reusable suborbital vehicles, propulsion systems, and flight infrastructure for European research
+          missions.</p>
+</div>
+<div class="footer-column">
+<h4>Missions</h4>
+<ul>
+<li><a href="./starleap.html">Hopper</a></li>
+<li><a href="./starlight.html">Starlight</a></li>
+<li><a href="./payload.html">Payload</a></li>
+</ul>
+</div>
+<div class="footer-column">
+<h4>Company</h4>
+<ul>
+<li><a href="./about.html">About Us</a></li>
+<li><a href="./team.html">The Team</a></li>
+<li><a href="./news.html">Newsroom</a></li>
+<li><a href="./glossary.html">Glossary</a></li>
+</ul>
+</div>
+<div class="footer-column">
+<h4>Connect</h4>
+<ul>
+<li><a href="./contact.html">Contact</a></li>
+<li><a href="./partners.html">Partners</a></li>
+<li><a href="./donate.html">Donate</a></li>
+<li><a href="./legal.html">Legal</a></li>
+</ul>
+</div>
+</div>
+<div class="footer-bottom">
+<p class="copyright">Elara Aerospace © 2026</p>
+<div class="footer-status">Munich, Germany</div>
+</div>
+</footer>
+<script>
+    document.getElementById('student-application-form').addEventListener('submit', async function (event) {
+      event.preventDefault();
+
+      const form = event.target;
+      const status = document.getElementById('student-form-status');
+      const submitBtn = form.querySelector('button[type="submit"]');
+      if (submitBtn.disabled) return;
+      const context = document.getElementById('student-hs-context');
+      const PORTAL_ID = '143597793';
+      const FORM_GUID = '54e8a780-8c8e-4fe8-9e42-c97ea1380f74';
+      const HUBSPOT_URL = `https://forms-eu1.hubspot.com/uploads/form/v2/${PORTAL_ID}/${FORM_GUID}`;
+
+      context.value = JSON.stringify({
+        pageName: document.title,
+        pageUrl: window.location.href
+      });
+
+      submitBtn.disabled = true;
+      submitBtn.innerText = 'Transmitting...';
+      status.style.display = 'block';
+      status.style.color = 'var(--muted)';
+      status.innerText = 'Establishing secure connection to HubSpot...';
+
+      try {
+        const response = await window.elaraSubmitForm(HUBSPOT_URL, {
+          method: 'POST',
+          body: new FormData(form)
+        });
+
+        if (response.ok) {
+          form.reset();
+          status.style.color = '#4CAF50';
+          status.innerText = 'Application transmitted. We will contact you shortly.';
+          submitBtn.innerText = 'Application Received';
+          return;
+        }
+
+        throw new Error(`HubSpot submission failed with status ${response.status}`);
+      } catch (error) {
+        console.error('Error submitting student application to HubSpot:', error);
+        status.style.color = '#ff4d4d';
+        status.innerText = 'Transmission error. Please check your connection or email us directly.';
+        submitBtn.disabled = false;
+        submitBtn.innerText = 'Retry Application';
+      }
+    });
+  </script>
+<script defer="" src="./app.min.js"></script>
+</body>
+</html>
